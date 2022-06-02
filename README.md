@@ -1,7 +1,7 @@
 # Christmas Theme
 
 [![Build Status](https://www.travis-ci.org/home-assistant-community-themes/christmas.svg?branch=master)](https://www.travis-ci.org/home-assistant-community-themes/christmas)
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 
 > The Christmas Theme by moose517
 
